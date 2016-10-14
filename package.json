@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "An app that uses Node Twitter, Spotify, and OMDB APIs for basic returns",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarAhDzib/liri-node-app.git"
+  },
+  "dependencies": {
+    "request": "^2.75.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.4.0"
+  },
+  "keywords": [],
+  "author": "Edgar Martin del Campo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgarAhDzib/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/EdgarAhDzib/liri-node-app#readme"
+}
